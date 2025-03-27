@@ -1,6 +1,7 @@
 # 💻 ByJoveTech's Portfolio  
 
-Developer &amp; Security PractitionerBuilding tomorrow's tech—securely.
+Developer &amp; Security Practitioner
+Building tomorrow's tech—securely.
 
 Welcome to my portfolio repository! This repo contains the source code for my personal portfolio website, showcasing my **backend development, cybersecurity, and smart contract auditing expertise**.  
 
